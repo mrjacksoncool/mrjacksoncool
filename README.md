@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mojelaratsita1@gmail.com**
 
-- 📄 Know about my experiences [https://app.enhancv.com/share/4f51f869/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/4f51f869/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📄 Know about my experiences, get in touch. 
 
 - ⚡ Fun fact **I think I'm the next Dricus**
 

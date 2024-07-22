@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mojela</h1>
-<h3 align="center">A passionate frontend developer from Lesotho</h3>
+<h3 align="center">A passionate Front-End Developer from Cape Town</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m always growing and developing my skills.
 
 - 📫 How to reach me **mojelaratsita1@gmail.com**
 
 - 📄 Know about my experiences [https://app.enhancv.com/share/4f51f869/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/4f51f869/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
-- ⚡ Fun fact **I think I'm the next Trevor Noah**
+- ⚡ Fun fact **I think I'm the next Dricus**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,8 +3,8 @@
 
 - 🌱 I’m always growing and developing my skills.
 
-- 📫 How to reach me **mojelaratsita1@gmail.com**
-
+- 📫 How to reach me **mojelawork@gmail.com**
+- 👨‍💻 All of my projects are available at [mojelaratsita.site](mojelaratsita.site)
 - 📄 Know about my experiences, get in touch. 
 
 - ⚡ Fun fact **I think I'm the next Dricus**

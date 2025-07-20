@@ -4,7 +4,7 @@
 - 🌱 I’m always growing and developing my skills.
 
 - 📫 How to reach me **mojelawork@gmail.com**
-- 👨‍💻 All of my projects are available at [mojelaratsita.site](mojelaratsita.site)
+- 👨‍💻 All of my projects are available at [mojela.online](mojela.online)
 - 📄 Know about my experiences, get in touch. 
 
 - ⚡ Fun fact **I think I'm the next Dricus**
